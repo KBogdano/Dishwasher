@@ -1,0 +1,92 @@
+I-Logix-RPY-Archive version 8.15.0 * 9835550
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 16;
+	- value = "EXE/Host/Default/CleansingEngineer.java" 4.2.2019::13:37:31
+	"EXE/Host/Default/Default_pkgClass.java" 4.2.2019::13:37:31
+	"EXE/Host/Default/Dishwasher.java" 4.2.2019::23:38:36
+	"EXE/Host/Default/DishwasherBuilder.java" 4.2.2019::23:35:21
+	"EXE/Host/Default/Display.java" 4.2.2019::23:35:21
+	"EXE/Host/Default/Heater.java" 4.2.2019::13:37:31
+	"EXE/Host/Default/Jet.java" 4.2.2019::13:37:31
+	"EXE/Host/Default/KeyReader.java" 4.3.2019::0:8:27
+	"EXE/Host/Default/ServicePerson.java" 4.2.2019::13:37:31
+	"EXE/Host/Dishwasher/CleansingEngineer.java" 4.5.2019::9:47:20
+	"EXE/Host/Dishwasher/Dishwasher.java" 4.5.2019::9:47:20
+	"EXE/Host/Dishwasher/DishwasherBuilder.java" 4.5.2019::9:47:20
+	"EXE/Host/Dishwasher/Dishwasher_pkgClass.java" 4.5.2019::9:47:20
+	"EXE/Host/Dishwasher/Display.java" 4.5.2019::9:47:20
+	"EXE/Host/Dishwasher/KeyReader.java" 4.5.2019::9:47:20
+	"EXE/Host/Dishwasher/ServicePerson.java" 4.5.2019::9:47:20
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 12048502-b60a-4b87-943d-3e938d413348" "GUID 41037d0a-6b78-4871-a429-3f143ae47e2a"
+	"GUID 9a74ed5d-9fe8-4c14-b21f-20b2b2b96536" "GUID 41037d0a-6b78-4871-a429-3f143ae47e2a"
+	
+}
+- size = 8;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\Lab_20_03\\Project1_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Display";
+	- _id = GUID 78f03553-03b7-4aed-aa55-99f8224262af;
+}
+- genTime = 4.5.2019::9:49:32;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "C:\\Users\\student\\Desktop\\Lab_20_03\\Project1_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID 9a74ed5d-9fe8-4c14-b21f-20b2b2b96536;
+}
+- genTime = 4.5.2019::9:49:32;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\Lab_20_03\\Project1_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "KeyReader";
+	- _id = GUID 8c172e79-e6b5-45fd-a1fd-0bfdc69eb18c;
+}
+- genTime = 4.5.2019::9:49:32;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\Lab_20_03\\Project1_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Dishwasher";
+	- _id = GUID 7079ef3c-f3cc-4d09-84ab-7690f84c5570;
+}
+- genTime = 4.5.2019::9:49:32;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\Users\\student\\Desktop\\Lab_20_03\\Project1_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "DishwasherBuilder";
+	- _id = GUID 98c30160-8c20-48ed-8efd-522debdb4f4e;
+}
+- genTime = 4.5.2019::9:49:32;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "C:\\Users\\student\\Desktop\\Lab_20_03\\Project1_rpy\\EXE.cmpx";
+	- _name = "EXE\\Host";
+	- _id = GUID 16835a1d-f251-4422-bf9a-3409b178bcff;
+}
+- genTime = 4.5.2019::9:50:25;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = "C:\\Users\\student\\Desktop\\Lab_20_03\\Project1_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "ServicePerson";
+	- _id = GUID 13d56fa0-1041-4d67-a7f7-44689f9f048a;
+}
+- genTime = 4.5.2019::9:49:32;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = "C:\\Users\\student\\Desktop\\Lab_20_03\\Project1_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "CleansingEngineer";
+	- _id = GUID 3c797323-b4ed-4ffb-b88c-87c8b40ef9c7;
+}
+- genTime = 4.5.2019::9:49:32;
+
